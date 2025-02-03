@@ -53,13 +53,16 @@
           <mxGeometry x="86.59" y="520" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6_jwAFrvl6ssd8mjGEhO-29" value="Login" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#000000;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=15;fontStyle=1;fillColor=#FF7F01;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="103.65" y="581" width="170" height="30" as="geometry" />
+          <mxGeometry x="103" y="583" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6_jwAFrvl6ssd8mjGEhO-30" value="Remember me" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=9;fontColor=#666666;labelPosition=right;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6_jwAFrvl6ssd8mjGEhO-30" value="Remember me" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=9;fontColor=#398FAA;labelPosition=right;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="114.59" y="553" width="6" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="6_jwAFrvl6ssd8mjGEhO-31" value="Forgot Password?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#666666;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="6_jwAFrvl6ssd8mjGEhO-31" value="Forgot Password?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#398FAA;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="204" y="544" width="84.59" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6_jwAFrvl6ssd8mjGEhO-32" value="Don&#39;t have an account? &lt;font style=&quot;color: rgb(57, 143, 170);&quot;&gt;Create an account&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="99" y="630" width="185.59" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
