@@ -4,26 +4,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-6" value="Health Harvest App" style="html=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="480" height="680" as="geometry" />
+        </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-1" value="User Registration &amp; Login" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-2" value="Product Browsing &amp; Selection" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="300" y="180" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-14" value="includes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="tc8aLYQucbalau6gMRA4-3" target="rXQUmh9ZWxEuPyKRdW1T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-3" value="Order Placement &amp; Payment" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="300" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-11" value="includes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="tc8aLYQucbalau6gMRA4-4" target="rXQUmh9ZWxEuPyKRdW1T-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-4" value="Order Tracking &amp; Notifications" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="300" y="340" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-5" value="Inventory Management" style="ellipse;" parent="1" vertex="1">
-          <mxGeometry x="300" y="500" width="160" height="60" as="geometry" />
+          <mxGeometry x="300" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-12" value="includes" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="tc8aLYQucbalau6gMRA4-6" target="rXQUmh9ZWxEuPyKRdW1T-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-6" value="Delivery &amp; Pickup Scheduling" style="ellipse;" parent="1" vertex="1">
           <mxGeometry x="300" y="420" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-7" value="Admin Panel Access" style="ellipse;" parent="1" vertex="1">
-          <mxGeometry x="300" y="660" width="160" height="60" as="geometry" />
+          <mxGeometry x="300" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tc8aLYQucbalau6gMRA4-8" style="exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tc8aLYQucbalau6gMRA4-15" target="tc8aLYQucbalau6gMRA4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,14 +77,27 @@
             <mxPoint x="150" y="546.8627450980391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tc8aLYQucbalau6gMRA4-15" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="tc8aLYQucbalau6gMRA4-15" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tc8aLYQucbalau6gMRA4-16" value="Store Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="tc8aLYQucbalau6gMRA4-16" value="Store Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="70" y="330" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tc8aLYQucbalau6gMRA4-17" value="Store Admin/Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="tc8aLYQucbalau6gMRA4-17" value="Store Admin/Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="70" y="500" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-7" value="View Cart" style="ellipse;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-10" value="View Account" style="ellipse;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rXQUmh9ZWxEuPyKRdW1T-13" value="incldues" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="tc8aLYQucbalau6gMRA4-3" target="rXQUmh9ZWxEuPyKRdW1T-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
